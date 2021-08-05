@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Locate And Rate App
 
+React.js - Node.js Full-stack map app that allows users to pin and rate places of interest. Created using React hooks, Mapbox, Express, and MongoDB.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
